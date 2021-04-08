@@ -1,4 +1,5 @@
-#nie posiadam praw autorskich do wszystkich uzytych przeze mnie obrazow i dzwiekow
+#author: Julia Kończal
+#i don't possess author's rights to all the sounds and pictures
 import pygame
 from time import sleep
 import random
